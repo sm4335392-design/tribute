@@ -1,0 +1,42 @@
+*{
+    text-decoration: none;
+}
+.navbar{
+    background-color: black;  padding-right: 15px; padding-left: 15px;
+}
+.navdiv{
+    display: flex; align-items: center; justify-content: space-between;
+}
+.logo img{
+    justify-content: space-between;
+
+    
+}
+li{
+    list-style: none;
+    display: flex;
+
+}
+a{
+    color: white;
+}
+li a :hover{
+   background-color:red ; color: aliceblue; font-size: 20px; margin-right: 20px; display: flex;
+
+}
+.navbar ul{
+    display: flex;
+    gap: 40px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.head{
+    background-color: black;
+}
+.head h2{ color: blueviolet; text-align: center;   
+}.head p{ color: white;}
+.head h2 :hover{ color: brown;}
