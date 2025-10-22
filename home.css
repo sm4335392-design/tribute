@@ -37,6 +37,6 @@ p{
 .head{
     background-color: black;
 }
-.head h2{ color: blueviolet; text-align: center;   
+.head h2{ color:aqua; text-align: center;   
 }.head p{ color: white;}
 .head h2 :hover{ color: brown;}
